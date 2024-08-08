@@ -1,4 +1,4 @@
-#Checkers AI Game
+##Checkers AI Game
 Overview
 This project is a Python-based implementation of the classic Checkers game with an AI opponent. The AI uses the Minimax algorithm with Alpha-Beta Pruning to make competitive moves, providing a challenging experience for the player. The game features a graphical user interface built with Pygame.
 
